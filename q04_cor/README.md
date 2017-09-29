@@ -1,9 +1,18 @@
 # Task 4:
 
+Just like in previous task for this one too you will need:- 
+* Matplotlib which we have already used in Visualization 
+* Seaborn which provides a high-level interface for drawing attractive statistical graphics. 
+
 For these you dont need to load the data, we have already done it for you.
 
-* Now plot a correlation plot for the variables and check for collinearity
-Hint: use corr() functiom
+If we are going to use linear regression for modelling, its necessary to remove correlated variables to improve our model. 
+
+You need to plot a Correlation Plot for the variables and check for collinearity.
+
+**Hint:** 
+
+use corr() functiom
 
 #### Parameters:
 
@@ -16,4 +25,3 @@ Hint: use corr() functiom
 | Return | dtype | description |
 | --- | --- | --- | 
 | Heatmap | | Heatmap |
-**Compare your plot with the q04_cor.png in the images folder**
