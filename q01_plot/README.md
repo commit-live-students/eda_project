@@ -1,4 +1,4 @@
-# Task 1:
+# Visualization 1
 
 We have already used the house pricing data for our in-class assignments. Now we will use the same data to solve some more assignments.
 
@@ -13,7 +13,7 @@ For this task you will need:-
 
 For this assignment you don't need to load the data, we have already done it for you.
 
-You need to plot a histogram for a distribution of the following variables and check whether it is linear or not.
+You job is to plot a histogram for a distribution of the following variables and check whether it is linear or not.
 - LotArea
 - GarageArea
 - OpenPorchSF

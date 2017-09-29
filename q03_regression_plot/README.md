@@ -1,6 +1,6 @@
-# Task 3:
+# Regression plot
 
-In this task you will be plot a regression plot using the Matplotlib and Seaborn libraries
+In this task you will be plotting a regression plot using the Matplotlib and Seaborn libraries
 
 For these you don't need to load the data, we have already done it for you.
 

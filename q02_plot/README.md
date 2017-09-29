@@ -1,9 +1,11 @@
-# Task 2:
+# Visualization 2
 
+Nice work done there ! 
 
-So, far we have studied Histplot to draw a histogram.
+Now that you have learned how to plot a histogram.
+Let's dig deeper and explore this world of visualization.
 
-We, can also draw a boxplot that facilitates comparision between variables or across levels of a categorical variable.
+For the record we can also draw a boxplot that facilitates comparision between variables or across levels of a categorical variable.
 
 It also,  helps us in outliers detection, which will help us remove them.
 
@@ -35,3 +37,5 @@ Plot a Boxplot for the same variables and check whether there is any outliers an
 | Return | dtype | description |
 | --- | --- | --- | 
 | Plot | | outliers for all given columns |
+
+So what are you waiting for let's get started !

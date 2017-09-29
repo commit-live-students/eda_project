@@ -1,4 +1,9 @@
-# Task 4:
+# Correlation
+
+Keep up the progress ....great going !
+
+This task will help you in understanding the phenomenon of correlation graphically
+and hone your skills in handling and visualising multicollinearity.
 
 Just like in previous task for this one too you will need:- 
 * Matplotlib which we have already used in Visualization 
@@ -8,7 +13,7 @@ For these you dont need to load the data, we have already done it for you.
 
 If we are going to use linear regression for modelling, its necessary to remove correlated variables to improve our model. 
 
-You need to plot a Correlation Plot for the variables and check for collinearity.
+Your job is to plot a Correlation Plot for the variables and check for collinearity.
 
 **Hint:** 
 
@@ -25,3 +30,5 @@ use corr() functiom
 | Return | dtype | description |
 | --- | --- | --- | 
 | Heatmap | | Heatmap |
+
+Let's get started !

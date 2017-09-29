@@ -1,4 +1,18 @@
 # EDA(Exploratory Data Analysis) Implementation using Python
+How to ensure you are ready to use machine learning algorithms in a project?
+How to choose the most suitable algorithms for your data set? 
+How to define the feature variables that can potentially be used for machine learning?
+
+Exploratory Data Analysis (EDA) helps to answer all these questions, ensuring the best outcomes for the project.
+
+This project concerns the preliminary analysis and illustration of data related 
+to House Prices of 1400 houses in New York.
+
+#What we have learnt so far?
+* Initial Exploration
+* Introduction to Seaborn
+* Univariate Analysis
+* Multi-variate Analysis
 
 We have seen in the lectures how EDA helps in first level of analysis of data.
 
