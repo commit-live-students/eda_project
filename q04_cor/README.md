@@ -1,4 +1,4 @@
-# Correlation
+#  Plot a correlation plot for the variables and check for collinearity
 
 Keep up the progress ....great going !
 
