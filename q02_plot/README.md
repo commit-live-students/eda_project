@@ -1,4 +1,4 @@
-# Visualization 2
+# Draw a boxplot that facilitates comparision between variables or across levels of a categorical variable
 
 Nice work done there ! 
 
