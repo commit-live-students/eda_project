@@ -1,4 +1,4 @@
-# Regression plot
+# Draw a Scatter Plot to visualize the regression analysis
 
 In this task you will be plotting a regression plot using the Matplotlib and Seaborn libraries
 
