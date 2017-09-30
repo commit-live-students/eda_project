@@ -1,4 +1,4 @@
-# Visualization 1
+# Plot Histogram to get a sense of the distribution
 
 We have already used the house pricing data for our in-class assignments. Now we will use the same data to solve some more assignments.
 
