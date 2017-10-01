@@ -52,5 +52,6 @@ For the assignment we will be using the below packages :
 * matplotlib
 * seaborn
 
+By completing this project you have an opportunity to win 300 points
 
 ##Let's get started!
