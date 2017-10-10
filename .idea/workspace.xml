@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15fd137e-cb55-44ef-91a4-a0bff56c7c17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q01_plot/build.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q01_plot/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q01_plot/q02_plot.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q02_plot/build.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q02_plot/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q02_plot/q03_regression_plot.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q03_regression_plot/build.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q03_regression_plot/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q03_regression_plot/q04_cor.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q04_cor/build.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/q04_cor/config.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/data_exploratory_analysis_project.iml" afterPath="$PROJECT_DIR$/.idea/data_exploratory_analysis_project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q01_plot/README.md" afterPath="$PROJECT_DIR$/q01_plot/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q01_plot/build.py" afterPath="$PROJECT_DIR$/q01_plot/build.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py" afterPath="$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q02_plot/README.md" afterPath="$PROJECT_DIR$/q02_plot/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q02_plot/build.py" afterPath="$PROJECT_DIR$/q02_plot/build.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py" afterPath="$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q03_regression_plot/README.md" afterPath="$PROJECT_DIR$/q03_regression_plot/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q03_regression_plot/build.py" afterPath="$PROJECT_DIR$/q03_regression_plot/build.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q03_regression_plot/tests/test_q03_regression_plot.py" afterPath="$PROJECT_DIR$/q03_regression_plot/tests/test_q03_regression_plot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q04_cor/README.md" afterPath="$PROJECT_DIR$/q04_cor/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q04_cor/build.py" afterPath="$PROJECT_DIR$/q04_cor/build.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q04_cor/tests/test_q04_cor.py" afterPath="$PROJECT_DIR$/q04_cor/tests/test_q04_cor.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +16,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q02_plot/build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_q02_plot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/q01_plot/build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_q01_plot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,18 +75,18 @@
         <option value="$PROJECT_DIR$/q03_regression_plot /build.py" />
         <option value="$PROJECT_DIR$/q03_regression_plot /tests/test_q03_regression_plot.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py" />
         <option value="$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py" />
-        <option value="$PROJECT_DIR$/q02_plot/build.py" />
         <option value="$PROJECT_DIR$/q01_plot/README.md" />
         <option value="$PROJECT_DIR$/q02_plot/README.md" />
         <option value="$PROJECT_DIR$/q03_regression_plot/tests/test_q03_regression_plot.py" />
-        <option value="$PROJECT_DIR$/q01_plot/build.py" />
         <option value="$PROJECT_DIR$/q03_regression_plot/README.md" />
         <option value="$PROJECT_DIR$/q03_regression_plot/build.py" />
         <option value="$PROJECT_DIR$/q04_cor/tests/test_q04_cor.py" />
         <option value="$PROJECT_DIR$/q04_cor/README.md" />
         <option value="$PROJECT_DIR$/q04_cor/build.py" />
+        <option value="$PROJECT_DIR$/q02_plot/build.py" />
+        <option value="$PROJECT_DIR$/q01_plot/build.py" />
+        <option value="$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py" />
       </list>
     </option>
   </component>
@@ -73,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="21" />
     <option name="width" value="1368" />
@@ -95,6 +118,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,11 +126,21 @@
               <item name="eda_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="eda_project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="eda_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eda_project" type="462c0819:PsiDirectoryNode" />
+              <item name="q01_plot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eda_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eda_project" type="462c0819:PsiDirectoryNode" />
+              <item name="q01_plot" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +223,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -199,7 +234,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -361,49 +396,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/q03_regression_plot/q04_cor.ipynb" />
-    <entry file="file://$PROJECT_DIR$/q02_plot/build.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#21#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q01_plot/build.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/q03_regression_plot/build.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -412,7 +408,6 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="306">
             <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -423,15 +418,35 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="187">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/q04_cor/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q04_cor/tests/test_q04_cor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q03_regression_plot/tests/test_q03_regression_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/q04_cor/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="323">
             <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             <folding />
@@ -442,41 +457,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/q03_regression_plot/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="425">
-            <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q04_cor/build.py">
+    <entry file="file://$PROJECT_DIR$/q02_plot/build.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q04_cor/tests/test_q04_cor.py">
+    <entry file="file://$PROJECT_DIR$/q02_plot/tests/test_q02_plot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q01_plot/tests/test_q01_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q03_regression_plot/tests/test_q03_regression_plot.py">
+    <entry file="file://$PROJECT_DIR$/q01_plot/build.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
