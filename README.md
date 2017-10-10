@@ -15,9 +15,9 @@ to House Prices of 1400 houses in New York.
 * Multi-variate Analysis
 
 ## What are we going to do in this project :
-You will Learn to use Matplotlib and Seaborn to Plot the one or more than one Features.
-We will be using House Pricing dataset. 
-We will be using visualization techniques on dataset and get some meaningful insights.
+- You will Learn to use Matplotlib and Seaborn to Plot the one or more than one Features.
+- We will be using House Pricing dataset. 
+- We will be using visualization techniques on dataset and get some meaningful insights.
 
 ## How will completing this project help you
 - EDA helps in first level of analysis of data.
