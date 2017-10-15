@@ -7,5 +7,7 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 
 
 # Write your code here
-
-
+def cor(data):
+    sns.heatmap(data.corr())
+    plt.show()
+    return plt
