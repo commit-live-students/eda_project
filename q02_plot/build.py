@@ -5,7 +5,17 @@ import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
+def plot(num_cols):
+    facet = None
+    for i in range(0,len(num_cols),2):
+        if len(num_cols) > i+1:
+            plt.figure(figsize=(10,4))
+            plt.subplot(121)
+            sns.boxplot(facet, num_cols[i],data = dataframe)
+            plt.subplot(122)
+            sns.boxplot(facet, num_cols[i+1],data = dataframe)
+            plt.tight_layout()
+            plt.show()
 
-# Write your code here:
-
-
+        else:
+            sns.boxplot(facet, num_cols[i],data = dataframe)
