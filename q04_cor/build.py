@@ -9,5 +9,5 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 # Write your code here
 def cor(df):
     plt.figure(figsize=(12,8))
-    sns.heatmap(dataframe.corr(), cmap='viridis')
+    sns.heatmap(df.corr(), cmap='viridis')
     plt.show()
