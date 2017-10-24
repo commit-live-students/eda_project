@@ -1,1 +1,1 @@
-{"stats": {"passes": 1, "skipped": 0, "encoding": "UTF-8", "errors": 0, "failures": 0, "total": 1}, "results": [{"classname": "eda_project.q02_plot.tests.test_q02_plot:TestLoad_distplot", "type": "success", "name": "test_plot", "time": 0.0001220703125}]}
+{"stats": {"passes": 1, "skipped": 0, "encoding": "UTF-8", "errors": 0, "failures": 0, "total": 1}, "results": [{"classname": "eda_project.q03_regression_plot.tests.test_q03_regression_plot:TestLoad_regression_plot", "type": "success", "name": "test_regression_plot", "time": 0.00011801719665527344}]}
