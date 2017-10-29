@@ -6,6 +6,6 @@ import seaborn as sns
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
 
-# Write your code here
-
-
+def cor(data):
+    _cor = data.corr()
+    sns.heatmap(_cor)
