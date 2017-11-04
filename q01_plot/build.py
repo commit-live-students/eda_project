@@ -6,3 +6,5 @@ import pandas as pd
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
 # Write your code here:
+def plot(num_cols):
+    return data[['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']].hist()
