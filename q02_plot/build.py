@@ -9,3 +9,11 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 # Write your code here:
 
 
+num_cols = data[['LotArea','GarageArea','OpenPorchSF','SalePrice']]
+
+def plot(num_cols):
+    for n in num_cols:
+        plt.figure(figsize=(10,4))
+        plt.subplot(121)
+        sns.distplot(n,kde=False)
+        plt.show()
