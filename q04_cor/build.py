@@ -11,5 +11,3 @@ def cor(data):
     plt.figure(figsize=(15, 10))
     sns.heatmap(data.corr())
     return plt.show()
-
-
