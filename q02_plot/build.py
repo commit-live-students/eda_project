@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
+num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']
 
 
 # Write your code here:
@@ -21,4 +22,3 @@ def plot(num_cols):
 
         else:
             sns.boxplot(facet, num_cols[i],data = train)
-
