@@ -18,7 +18,5 @@ def plot(num_cols):
             sns.boxplot(facet, num_cols[i+1],data = data)
             plt.tight_layout()
             plt.show()
-
         else:
             sns.boxplot(facet, num_cols[i],data = train)
-
