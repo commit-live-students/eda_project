@@ -6,4 +6,7 @@ import seaborn as sns
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
 
-# Write your code here
+def cor(data):
+    plt.figure(figsize=(12,8))
+    sns.heatmap(data.corr(), cmap="magma")
+    plt.show()
