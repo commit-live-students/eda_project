@@ -7,3 +7,15 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 
 
 # Write your code here
+
+def cor(data):
+    #k = 10 #number of variables for heatmap
+    #cols = data.corr().nlargest(k, 'SalePrice')['SalePrice'].index
+    #cm = data[cols].corr()
+    #plt.figure(figsize=(10,6))
+    #sns.heatmap(cm, annot=True, cmap = 'viridis')
+
+    plt.figure(figsize=(12,8))
+    sns.heatmap(data.corr(), cmap='viridis')
+    plt.show()
+    return
