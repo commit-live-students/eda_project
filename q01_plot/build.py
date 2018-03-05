@@ -11,7 +11,7 @@ number_of_rows = (len(num_cols)-1)/number_of_columns
 def plot(num_cols):
     for i in range (0, len(num_cols)):
         plt.subplot(number_of_rows+1, number_of_columns, i+1)
-        sns.distplot(data[num_cols[i]],kde=False,)
+        sns.distplot(data[num_cols[i]],kde=True,)
     plt.show()
 
 
