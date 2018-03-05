@@ -5,6 +5,9 @@ import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
-
-# Write your code here:
-
+def plot(cols):
+    a = []
+    for i in range(0,len(cols)):
+        a.append(sns.boxplot(data[cols[i]]))
+        #plt.show()
+    return a
