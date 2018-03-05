@@ -5,5 +5,6 @@ import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
-
-# Write your code here
+def cor(dt):
+    plt.figure(figsize=(12,8))
+    return sns.heatmap(dt.corr(), cmap='viridis')
