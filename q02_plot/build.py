@@ -7,4 +7,7 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 
 
 # Write your code here:
-
+def plot(num_cols):
+    for i in num_cols:
+        sns.boxplot(data.i)
+        plt.show()
