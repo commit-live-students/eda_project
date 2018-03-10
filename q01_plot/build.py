@@ -10,7 +10,7 @@ def plot(num_cols):
     num_of_rows = len(num_cols)/2
     for i in range(0, len(num_cols)):
 
-        plt.subplot(num_of_rows+1, 2, i+1)
+        plt.subplot(num_of_rows+1, num_cols, i+1)
         sns.distplot(data[num_cols[i]], bins = 20, kde = False)
 
     plt.show()
