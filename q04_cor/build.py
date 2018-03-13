@@ -5,5 +5,10 @@ import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
 
+def cor(data):
+    sns.heatmap(df.corr())
+    plt.show
+    
+
 
 # Write your code here
