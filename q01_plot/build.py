@@ -4,4 +4,8 @@ import pandas as pd
 #from greyatomlib import pandas_project as pd
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
+num_cols = [data.LotArea, data.GarageArea, data.OpenPorchSF, data.SalePrice]
 
+def plot(num_cols):
+    plt.hist(num_cols)
+    plt.show()
