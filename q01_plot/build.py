@@ -11,7 +11,7 @@ num_cols = len(cols.columns)
 def plot(num_cols):
     for a in range(1,4):
         for n in range(0,num_cols):
-            plt.subplot(4,num_cols,a)
+            plt.subplot(2,num_cols,a)
             sns.distplot(cols[cols.columns[n]])
             plt.show()
         return
