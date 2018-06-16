@@ -2,7 +2,7 @@
 # Default imports
 import pandas as pd
 import matplotlib.pyplot as plt
-
+plt.switch_backend('agg')
 import seaborn as sns
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
@@ -23,8 +23,5 @@ def plot(num_cols):
             sns.boxplot(facet,num_cols[i],data=data)
             #plt.show()
 plot(num_cols)            
-
-
-(num_cols)            
 
 
