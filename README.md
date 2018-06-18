@@ -46,3 +46,5 @@ click [here](https://github.com/MayureshShilotri/GA_extended_content/blob/master
 By completing this project you have an opportunity to win 300 points
 
 Let's get started!
+
+Note :- include the line plt.switch_backend('agg') in every build.py
