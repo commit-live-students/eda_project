@@ -8,4 +8,6 @@ plt.switch_backend('agg')
 
 
 # Write your code here:
-
+def plot(num_cols):
+    sns.boxplot(num_cols)
+    plt.show()
