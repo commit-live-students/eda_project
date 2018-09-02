@@ -10,7 +10,9 @@ plt.switch_backend('agg')
 
 
 # Write your code here
+variable1=data.SalePrice
+variable2=data.GrLivArea
 
-
-
-
+def regression_plot(variable1, variable2):
+    sns.regplot(variable1, variable2)
+    plt.show()

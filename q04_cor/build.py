@@ -8,3 +8,6 @@ plt.switch_backend('agg')
 
 
 # Write your code here
+def cor(data):
+    sns.heatmap(data.cor())
+    plt.show()
