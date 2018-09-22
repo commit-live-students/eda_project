@@ -8,7 +8,8 @@ dataframe = pd.read_csv('data/house_prices_multivariate.csv')
 
 # Write your code here:
 
-def plot(num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']):
+num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']
+def plot(num_cols):
     
     facet = None
     for i in range(0,len(num_cols),2):
@@ -24,7 +25,8 @@ def plot(num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']):
         else:
             sns.boxplot(facet, num_cols[i],data = dataframe)
 
-            
-plot(num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice'])
+    return
+
+#plot(num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice'])
 
 
