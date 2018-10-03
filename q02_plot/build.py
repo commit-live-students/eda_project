@@ -22,6 +22,10 @@ def plot(num_cols):
             plt.tight_layout()
             plt.show()
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5493eb5222108eaac16816ee2491cb2f5a8dd598
 plot(num_cols)
 
 
