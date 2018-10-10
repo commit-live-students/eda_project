@@ -12,8 +12,5 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 # Write your code here
 def regression_plot(dependent,independent):
     return sns.lmplot('GrLivArea','SalePrice',fit_reg=True,data=data)
-regression_plot('SalePrice','GrLivArea')
-plt.show()
-
 
 
