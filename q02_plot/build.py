@@ -15,6 +15,5 @@ def plot(num_cols):
     sns.boxplot(data['OpenPorchSF'],ax=axes[1,0])
     sns.boxplot(data['SalePrice'],ax=axes[1,1])
     return plt.show()
-plot(3)
 
 
