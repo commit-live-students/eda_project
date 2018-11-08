@@ -19,7 +19,9 @@ def plot(num_cols):
             plt.tight_layout()
             plt.show()
             return(plt)
+        else:
+            sns.distplot(dataframe[num_cols[i]], kde=False)
 
-
+plot(num_cols)
 
 
