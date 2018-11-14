@@ -11,7 +11,7 @@ data = pd.read_csv('data/house_prices_multivariate.csv')
 def plot(num_cols):
     for i in range(len(num_cols)):
         sns.distplot(data[num_cols[i]])
-    return plt.show()
+        plt.show()
     
 
 columns = ['LotArea' ,'GarageArea', 'OpenPorchSF','SalePrice']
