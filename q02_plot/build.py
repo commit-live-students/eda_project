@@ -3,6 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+plt.switch_backend('agg')
 
 data = pd.read_csv('data/house_prices_multivariate.csv')
 num_cols = ['LotArea', 'GarageArea', 'OpenPorchSF', 'SalePrice']
@@ -19,8 +20,5 @@ def plot(num_cols):
             sns.boxplot(facet, num_cols[i+1],data = data)
             plt.tight_layout()
             plt.show()
-
-        else:
-            sns.boxplot(facet, num_cols[i],data = data)
 plot(num_cols)
 
